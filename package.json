@@ -1,0 +1,23 @@
+{
+  "name": "adecoin",
+  "version": "1.0.0",
+  "description": "Simple javascript blockchain",
+  "main": "app.js",
+  "dependencies": {
+    "bn.js": "^4.11.8",
+    "brorand": "^1.1.0",
+    "crypto-js": "^3.1.9-1",
+    "elliptic": "^6.4.1",
+    "hash.js": "^1.1.7",
+    "hmac-drbg": "^1.0.1",
+    "inherits": "^2.0.3",
+    "minimalistic-assert": "^1.0.1",
+    "minimalistic-crypto-utils": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken Ijiwoye",
+  "license": "ISC"
+}
