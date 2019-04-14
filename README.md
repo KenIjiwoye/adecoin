@@ -11,3 +11,5 @@ For education purposes only. This is by no means a complete implementation and i
 * Generate wallet (private/public key)
 * Sign transactions
 
+### TODO
+Will add tests later
